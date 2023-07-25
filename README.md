@@ -12,4 +12,5 @@ how to use
 3. run it on powershell or ssh or something else  
 
 what exhen_extractor.py do?
-It extracts gallery link in category 0 ~ 9, and all favorites to txt file
+It extracts gallery link in category 0 ~ 9, and all favorites to txt file  
+
